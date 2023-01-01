@@ -19,8 +19,8 @@ import time
 # In[2]:
 
 
-AWS_ACCESS_KEY='AKIA6HC4JCI6NEEN5PE2'
-AWS_SECRET_KEY='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'
+AWS_ACCESS_KEY='  '
+AWS_SECRET_KEY='   '
 AWS_REGION='ap-south-1'
 SCHEMA_NAME='covid_19'
 S3_STAGING_DIR='s3://tanish-test-bucket/output/'
